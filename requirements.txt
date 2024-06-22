@@ -1,0 +1,10 @@
+pandas
+torch
+numpy==1.26.4
+transformers
+torch
+lightning
+scikit-learn
+tensorboard
+matplotlib
+tensorflow
